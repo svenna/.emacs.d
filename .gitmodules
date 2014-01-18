@@ -1,0 +1,3 @@
+[submodule "lisp/emacs-pry"]
+	path = lisp/emacs-pry
+	url = https://github.com/jacott/emacs-pry.git
